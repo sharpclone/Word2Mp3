@@ -11,5 +11,7 @@ NOTE: To convert words that consist of more words use a "-". For example lilly-o
 
 You can also compile it on your system :
 1.For windows you can use Dev-Cpp and add the curl library (the curl folder)
+
 2.For mac you can just use clang and it should find the provided curl library
+
 3.For linux you should install a package named libcurl and execute the script BuildScriptWithGCC&libcurl or just copy the code from it 
