@@ -1,0 +1,1 @@
+g++ main.cpp -c -lcurl -o word2mp3
