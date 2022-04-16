@@ -12,7 +12,7 @@ NOTE: To convert words that consist of more words use a "-". For example lilly-o
 
 You can also compile it on your system :
 
-1.For windows you can use Dev-Cpp and add the curl library (the curl folder)
+1.For windows you can use Dev-Cpp and add compile the windows version
 
 2.For mac you can just use clang and it should find the provided curl library
 
