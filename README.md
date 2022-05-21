@@ -1,7 +1,8 @@
 # Word2Mp3
 This little program converts words individually from a .txt input file to  mp3.
 
-Cancel changes
+MAKE SURE TO HAVE "input.txt" IN THE SAME FOLDER WITH THE EXECUTABLE!!!
+
 USAGE:
 1. Make a file called input.txt and write in it the words that you want to convert to a mp3
 2. Put the input.txt and the executable in the same folder and run the executable
